@@ -1,2 +1,2 @@
 # -beginnings-
-this is a new beginning
+this is a new beginning .
